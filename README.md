@@ -46,3 +46,6 @@
 #!/bin/sh
 rsync -av --delete /home/bondarev/ /tmp/backup >> /var/log/cron.log
 
+![image](https://github.com/user-attachments/assets/dac20bc9-6de0-4624-9d5e-e452207de20c)
+
+
